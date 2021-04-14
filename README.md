@@ -1,6 +1,6 @@
 # To-Do List App
 Created with CodeSandbox using React JS, React Components, React Hooks
-Description: When you click on the list item it gets deleted
+Description: When you click on the list item it gets deleted.
 Hosted At: https://4i9tq.csb.app/
 
 To Install:
